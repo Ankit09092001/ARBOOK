@@ -1,4 +1,4 @@
-# ARBOOK - Augmented Reality App
+# ARBOOK - Augmented Reality Book
 
 ![WhatsApp Image 2023-05-25 at 00 08 29 (1)](https://github.com/Ankit09092001/ARBOOK/assets/96561363/05d7331c-7f86-419f-9b6e-d9481f9de84a)
 
